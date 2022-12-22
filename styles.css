@@ -1,0 +1,10 @@
+
+#primero{
+    font-size: 45px;
+    border: solid 3px black;
+    width: fit-content;
+}
+p{
+    font-size: 5px;
+    color: aqua;
+}
